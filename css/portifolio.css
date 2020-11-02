@@ -173,8 +173,7 @@ input:focus, textarea:focus {
      border: none;
      outline: none;
      color: #E5E5E5;
-     cursor: pointer;
- }
+}
 
  .blog-btn {
     background: rgb(0, 153, 255);
