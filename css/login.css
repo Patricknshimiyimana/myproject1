@@ -90,6 +90,13 @@ input:focus {
      color: #E5E5E5;
 }
 
+.login-btn{
+    cursor: pointer;
+    background: rgb(0, 153, 255);
+    border: none;
+     outline: none;
+}
+
 img {
     /* margin-top: 3rem; */
     height: 4rem;
