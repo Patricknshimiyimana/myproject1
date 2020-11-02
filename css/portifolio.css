@@ -98,7 +98,7 @@ li a {
 .about {
     font-size: 2rem;
     text-align: center;
-    margin: 0 2rem;
+    margin: 0 3rem;
 }
 
 .image {
@@ -173,7 +173,7 @@ input:focus, textarea:focus {
      border: none;
      outline: none;
      color: #E5E5E5;
- }
+}
 
  .blog-btn {
     background: rgb(0, 153, 255);
